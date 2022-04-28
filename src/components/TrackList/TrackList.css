@@ -1,0 +1,13 @@
+html{
+  background-color: rgba(132, 139, 200, 0.18);
+}
+.tracks__container {
+  background-color: #f6f6f9;
+  margin: 30px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.track__item {
+  list-style: none;
+}
