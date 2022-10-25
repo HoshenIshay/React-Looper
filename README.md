@@ -2,8 +2,4 @@
 # Demo
 https://looper-by-hoshen-ishay.netlify.app/
 
-# Portfolio
-https://hoshen-ishay-portfolio.netlify.app/
-
-# Linkedin
-https://www.linkedin.com/in/hoshen-ishay/
+![‏‏צילום מסך (33)](https://user-images.githubusercontent.com/87603302/197863165-4aec9571-2101-4ec0-9717-e41fb209f80d.png)
